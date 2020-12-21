@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.heading{
+    display: none;
+}
+
+.menu-item_block{
+    background-color: #FFFFFF;
+    border: none;
+    display: inline-block;
+    height: 30px;
+    margin-right: 34px;
+    vertical-align: top;
+    width: 30px;
+}
+
+.youtube-item_box{
+    height: 100%;
+    width: 100%;
+}
+
+.logo-block{
+    height: 42px;
+    margin-right: 130px;
+    width: 184px;
+}
+
+.search-block{
+    height: 42px;
+    margin-right: 250px;
+}
+
+.youtube-logo_block{
+    display: inline-block;
+    height: 40px;
+    vertical-align: top;
+    width: 120px;
+}
+
+.youtube-item_block{
+    height: 30px;
+    vertical-align: top;
+    width: 100px;
+}
+
+.play-icon{
+    color: #FFFFFF;
+}
+
+.menu-item_box{
+    height: 100%;
+    width: 100%
+}
+
+.horizontal-nav-bar{
+    margin: 10px 20px;
+}
+
+.in-block{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.search-input{
+    border: none;
+    height: 40px;
+    padding-left: 30px;
+    width: 80%;
+}
+
+.search-box{
+    border: 1px solid #999487;
+    text-align: center;
+    width: 760px;
+}
+
+.account-block{
+    float: right;
+    height: 42px;
+}
+
+.search-button{
+    border: none;
+    border-left: 1px solid #999487;
+    display: inline-block;
+    height: 40px;
+    vertical-align: top;
+    width: 16%;
+}
+
+.search-icon{
+    height: 100%;
+    width: 100%;
+}
+
+.account-button-box{
+    float: right;
+}
+
+.account-block_button{
+    background-color: #FFFFFF;
+    border: none;
+    height: 24px;
+    margin-right: 20px;
+    width: 24px;
+}
+
+.icon-link{
+    height: 24px;
+    margin-right: 20px;
+    width: 24px;
+}
+
+.link-text{
+    font-size: 16px;
+    vertical-align: super;
+}
+
+.main-icons-link{
+    color: #030303;
+    display: block;
+    font-size: 18px;
+    padding: 10px 10px 10px 18px;
+    text-decoration: none;
+    -webkit-transition: 1s ease;
+    -moz-transition: 1s ease;
+    -o-transition: 1s ease;
+    transition: color .3s ease, background-color .3s ease;
+    width: 100%;
+}
+
+.icon-link{
+    fill: #606060;
+}
+
+.icons-bar{
+    border-bottom: 1px solid #CCC7BA;
+    margin-bottom: 14px;
+}
+
+.nav-heading{
+    color: #777989;
+    font-size: 12px;
+    padding: 0 0 0 18px;
+    text-transform: uppercase;
+}
+
+.sphere-bar{
+    height: 38px;
+    border-bottom: 1px solid #C6C2B4;
+    border-top: 1px solid #C6C2B4;
+}
+
+.sphere-list-icon{
+    display: inline-block;
+    margin: 0 6px;
+}
+
+.sphere-list-link{
+    background-color: #E5E5E5;
+    border-radius: 12px;
+    color: #030303;
+    line-height: 38px;
+    padding: 8px;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.vertical-nav-bar{
+    padding-top: 60px;
+    width: 166px;
+    z-index: 1;
+}
+
+.sphere-list{
+    font-size: 14px;
+}
+
+.fixed-pos{
+    position: fixed;
+}
+
+.horisontal-sphere-bar{
+    padding-left: 184px;
+    padding-top: 60px;
+}
+
+.horisontal-nav-bar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container{
+    padding: 120px 10px 0 212px;
+    width: 1302px;
+}
+
+.video-block{
+    margin: 10px 10px 10px 0;
+    width: 314px;
+}
+
+.video-item{
+    height: 180px;
+    margin-bottom: 10px;
+    width: 314px;
+}
+
+.video-name{
+    color: #030303;
+}
+
+.video-owner, .video-view, .video-date{
+    color: #9F9D9E;
+}
+
+.video-name{
+    color: #030303;
+    display: block;
+    height: 40px;
+}
+
+.video-owner{
+    display: block;
+}
+
+.account-logo{
+    height: 30px;
+    width: 30px;
+}
+
+.account-logo-box{
+    overflow: hidden;
+    padding-right: 20px;
+}
+
+.account-logo-links{
+    width: 264px;
+}
+
+.video-name, .video-owner{
+    text-decoration: none;
+}
+
+.image{
+    border-radius: 50%;
+}
+

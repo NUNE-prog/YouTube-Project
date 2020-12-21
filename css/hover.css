@@ -1,0 +1,24 @@
+.icon-link:active{
+    fill: red;
+}
+
+.main-icons-link:active{
+    font-weight: bold;
+}
+
+.main-icons-link:hover{
+    background-color: #E5E5E5;
+}
+
+.sphere-list-link:hover{
+    background-color: #D6D6D6;
+}
+
+.sphere-list-link:active{
+    background-color: #A0A0A0;
+    color: #FFFFFF;
+}
+
+a:focus{
+    outline: none;
+}
